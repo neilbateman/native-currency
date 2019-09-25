@@ -15,6 +15,10 @@ export default EStyleSheet.create({
   },
   logo: {
     width: imageWidth / 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: imageWidth,
+   
   },
   text: {
     color: '$white',
